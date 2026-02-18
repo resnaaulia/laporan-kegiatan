@@ -1,4 +1,3 @@
-tapi ini pak niko nyuruh ganti pake ini gimana dongg
 name: Deploy laravel via FTP
 on:
   push:
